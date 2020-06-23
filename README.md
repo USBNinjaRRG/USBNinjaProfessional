@@ -38,6 +38,8 @@ USBNinja Professional Keyboard (Logitech Mk-120)
 
 USBNinja Professional Cables (Lightning, Micro, Type-C) - Black / White
 
+<a href="https://ibb.co/LSBL5p7"><img src="https://i.ibb.co/LSBL5p7/Usbninja-canva1.png" alt="Usbninja-canva1" border="0"></a> <a href="https://ibb.co/8mg5773"><img src="https://i.ibb.co/8mg5773/Usbninja-canva2.png" alt="Usbninja-canva2" border="0"></a> <a href="https://ibb.co/hYPrKRL"><img src="https://i.ibb.co/hYPrKRL/Usbninja-canva3.png" alt="Usbninja-canva3" border="0"></a> <a href="https://ibb.co/H771p6w"><img src="https://i.ibb.co/H771p6w/Untitled-design.png" alt="Untitled-design" border="0"></a>
+
 USBNinja Module 
 
 <a href="https://ibb.co/RyH1NxZ"><img src="https://i.ibb.co/RyH1NxZ/canva1.png" alt="canva1" border="0"></a> <a href="https://ibb.co/47PHy74"><img src="https://i.ibb.co/47PHy74/canva2.png" alt="canva2" border="0"></a> <a href="https://ibb.co/xhkK7VJ"><img src="https://i.ibb.co/xhkK7VJ/canva3.png" alt="canva3" border="0"></a> <a href="https://ibb.co/RgKNF2m"><img src="https://i.ibb.co/RgKNF2m/canva4.png" alt="canva4" border="0"></a> <a href="https://ibb.co/MRMX1Hr"><img src="https://i.ibb.co/MRMX1Hr/canva5.png" alt="canva5" border="0"></a> <a href="https://ibb.co/wwsxbh7"><img src="https://i.ibb.co/wwsxbh7/canva6.png" alt="canva6" border="0"></a>
