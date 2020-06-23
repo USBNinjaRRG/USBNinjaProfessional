@@ -1,4 +1,5 @@
-# USBNinjaProfessional
+# USBNinja Professional
+
 USBNinja Professional. Upgraded from USBNinja.
 
 <a href="https://ibb.co/Pg0f2cK"><img src="https://i.ibb.co/Pg0f2cK/1.png" alt="1" border="0"></a>
