@@ -29,20 +29,20 @@ Both google play store and apple store have been put on the shelves and are avai
 
 11. The launched ultra-small micro-module can be built into USBNINJA in a small space USB device. User-friendly and flexible DIY.
 
-Form Factors Increase:
+# Form Factors Increase:
 ----------------------
 
-# USBNinja Professional Keyboard (Logitech Mk-120)
+USBNinja Professional Keyboard (Logitech Mk-120)
 
 <a href="https://ibb.co/Rz2dpFd"><img src="https://i.ibb.co/Rz2dpFd/mk120-black-gallery-images.png" alt="mk120-black-gallery-images" border="0"></a>
 
-# USBNinja Professional Cables (Lightning, Micro, Type-C) - Black / White
+USBNinja Professional Cables (Lightning, Micro, Type-C) - Black / White
 
-# USBNinja Module 
+USBNinja Module 
 
 <a href="https://ibb.co/RyH1NxZ"><img src="https://i.ibb.co/RyH1NxZ/canva1.png" alt="canva1" border="0"></a> <a href="https://ibb.co/47PHy74"><img src="https://i.ibb.co/47PHy74/canva2.png" alt="canva2" border="0"></a> <a href="https://ibb.co/xhkK7VJ"><img src="https://i.ibb.co/xhkK7VJ/canva3.png" alt="canva3" border="0"></a> <a href="https://ibb.co/RgKNF2m"><img src="https://i.ibb.co/RgKNF2m/canva4.png" alt="canva4" border="0"></a> <a href="https://ibb.co/MRMX1Hr"><img src="https://i.ibb.co/MRMX1Hr/canva5.png" alt="canva5" border="0"></a> <a href="https://ibb.co/wwsxbh7"><img src="https://i.ibb.co/wwsxbh7/canva6.png" alt="canva6" border="0"></a>
 
-Accessories
+# Accessories
 -----------
 
 USBNinja Professional Remote
@@ -50,7 +50,7 @@ USBNinja Professional Remote
 <a href="https://ibb.co/XDd7gT6"><img src="https://i.ibb.co/XDd7gT6/canvas1.png" alt="canvas1" border="0"></a> <a href="https://ibb.co/m8MHhrq"><img src="https://i.ibb.co/m8MHhrq/canva2.png" alt="canva2" border="0"></a> <a href="https://ibb.co/Tgv32pZ"><img src="https://i.ibb.co/Tgv32pZ/canva3.png" alt="canva3" border="0"></a> <a href="https://ibb.co/4PB80GC"><img src="https://i.ibb.co/4PB80GC/canva4.png" alt="canva4" border="0"></a> <a href="https://ibb.co/BZ5Hvr8"><img src="https://i.ibb.co/BZ5Hvr8/canva5.png" alt="canva5" border="0"></a>
 
 
-3 Forms of Execution
+# 3 Forms of Execution
 ------------------------
 
 IOS App (App Store)
@@ -62,7 +62,7 @@ GUI on windows (Via Remote)
 <a href="https://ibb.co/Jc5cGWS"><img src="https://i.ibb.co/MgMgtyJ/GUI-interface.png" alt="GUI-interface" border="0"></a>
 
 
-Command existing and Command added for USBNinja Professional
+# Command existing and Command added for USBNinja Professional
 ------------------------------------------------------------
 |Command|Parameter|
 |---|---|
