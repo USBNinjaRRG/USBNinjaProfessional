@@ -29,6 +29,8 @@ Both google play store and apple store have been put on the shelves and are avai
 
 11. The launched ultra-small micro-module can be built into USBNINJA in a small space USB device. User-friendly and flexible DIY.
 
+12. Operating current of USBNinja Professional is only 0.4mA. Detection of USBNinja Professional is not that obvious.
+
 # Form Factors Increase:
 ----------------------
 
