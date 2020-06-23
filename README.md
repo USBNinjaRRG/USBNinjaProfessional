@@ -34,6 +34,12 @@ USBNinja Professional Keyboard (Logitech Mk-120)
 USBNinja Professional Cables (Lightning, Micro, Type-C) - Black / White
 
 USBNinja Module 
+https://ibb.co/RyH1NxZ
+https://ibb.co/47PHy74
+https://ibb.co/xhkK7VJ
+https://ibb.co/RgKNF2m
+https://ibb.co/MRMX1Hr
+https://ibb.co/wwsxbh7
 
 
 3 Forms of Execution
