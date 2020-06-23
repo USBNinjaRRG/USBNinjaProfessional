@@ -26,8 +26,6 @@ Both google play store and apple store have been put on the shelves and are avai
 
 11. The launched ultra-small micro-module can be built into USBNINJA in a small space USB device. User-friendly and flexible DIY.
 
-Command existing and Command added for USBNinja Professional
-
 Form Factors Increase:
 ----------------------
 
@@ -47,6 +45,73 @@ Android (Google Playstore)
 
 GUI on windows 
 
+Command existing and Command added for USBNinja Professional
+------------------------------------------------------------
+|Command|Parameter|
+|---|---|
+|REM|   |  
+|DEFAULT_DELAY |0-xxx| 
+|DEFAULTDELAY|0-xxx|
+|DELAY|0-xxx| 
+|STRING|A-Z, 0-9|
+|GUI||
+|GUI|SPACE|
+|GUI|TAB|
+|APP MENU||
+|SHIFT|DELETE|
+|SHIFT|HOME|
+|SHIFT|PAGEUP|
+|SHIFT|PAGEDOWN|
+|SHIFT|WINDOWS|
+|SHIFT|GUI|
+|SHIFT|UPARROW|
+|SHIFT|DOWNARROW|
+|SHIFT|LEFTARROW|
+|SHIFT|RIGHTARROW|
+|SHIFT|TAB|
+|ALT|END|
+|ALT|ESC|
+|ALT|F1-F12|
+|ALT|A-Z|
+|ALT|SPACE|
+|ALT|TAB|
+|UPARROW| UP|
+|DOWNARROW|DOWN|
+|LEFTARROW|LEFT|
+|RIGHTARROW|RIGHT|
+|BREAK|-|
+|PAUSE|-|
+|CAPSLOCK|-|
+|DELETE|-|
+|END|-|
+|ESC|-|
+|ESCAPE|-|
+|HOME|-|
+|INSERT|-|
+|NUMLOCK|-|
+|PAGEUP|-|
+|PAGEDOWN|-|
+|PRINTSCREEN|-|
+|SCROLLLOCK|-|
+|SPACE|-|
+|TAB|-|
+|REPEAT|0-XXX|
+
+New Commands Added
+-----------------
+
+|Command| Parameter|
+|---|---|
+|USBON|-|
+|USBOFF|-|
+|CAPSLOCK ON|-|	
+|CAPSLOCK OFF|-|	
+|PLUGAUTORUN|0-10|
+|MSCREAD|-|	
+|MSCSAVE|-|
+|MSCWIPE|-|
+|MSCFORM|-|
+|MSCONOFF|0-1|
 
 
 
