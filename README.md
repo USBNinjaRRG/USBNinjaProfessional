@@ -56,7 +56,6 @@ USBNinja Professional Remote
 
 <a href="https://ibb.co/6v8tw5F"><img src="https://i.ibb.co/6v8tw5F/canva4.png" alt="canva4" border="0"></a>
 <a href="https://ibb.co/Tgv32pZ"><img src="https://i.ibb.co/Tgv32pZ/canva3.png" alt="canva3" border="0"></a> 
-<a href="https://ibb.co/4PB80GC"><img src="https://i.ibb.co/4PB80GC/canva4.png" alt="canva4" border="0"></a> 
 <a href="https://ibb.co/BZ5Hvr8"><img src="https://i.ibb.co/BZ5Hvr8/canva5.png" alt="canva5" border="0"></a>
 
 
