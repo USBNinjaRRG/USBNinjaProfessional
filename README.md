@@ -38,8 +38,8 @@ Both google play store and apple store have been put on the shelves and are avai
 
 USBNinja Professional Keyboard (Logitech Mk-120)
 
-<a href="https://ibb.co/Rz2dpFd"><img src="https://i.ibb.co/Rz2dpFd/mk120-black-gallery-images.png" alt="mk120-black-gallery-images" border="0"></a>
-<a href="https://ibb.co/rH0sByL"><img src="https://i.ibb.co/rH0sByL/202006241611247.jpg" alt="202006241611247" border="0"></a> <a href="https://ibb.co/cbFtB14"><img src="https://i.ibb.co/cbFtB14/20200624161124.jpg" alt="20200624161124" border="0"></a> <a href="https://ibb.co/MhfM5ys"><img src="https://i.ibb.co/MhfM5ys/202006241611241.jpg" alt="202006241611241" border="0"></a> <a href="https://ibb.co/5MyQr4f"><img src="https://i.ibb.co/5MyQr4f/202006241611242.jpg" alt="202006241611242" border="0"></a> <a href="https://ibb.co/NFCLy0w"><img src="https://i.ibb.co/NFCLy0w/202006241611243.jpg" alt="202006241611243" border="0"></a> <a href="https://ibb.co/KK3mHNh"><img src="https://i.ibb.co/KK3mHNh/202006241611244.jpg" alt="202006241611244" border="0"></a> <a href="https://ibb.co/8jThWGD"><img src="https://i.ibb.co/8jThWGD/202006241611245.jpg" alt="202006241611245" border="0"></a> <a href="https://ibb.co/2hXs59h"><img src="https://i.ibb.co/2hXs59h/202006241611246.jpg" alt="202006241611246" border="0"></a> <a href="https://ibb.co/KK3mHNh"><img src="https://i.ibb.co/KK3mHNh/202006241611244.jpg" alt="202006241611244" border="0"></a>
+<a href="https://ibb.co/Rz2dpFd"><img src="https://i.ibb.co/Rz2dpFd/mk120-black-gallery-images.png" alt="mk120-black-gallery-images" border="0" /></a>
+<a href="https://ibb.co/xHJCFkM"><img src="https://i.ibb.co/xHJCFkM/1.png" alt="1" border="0"></a> <a href="https://ibb.co/zh0XmK5"><img src="https://i.ibb.co/zh0XmK5/2.png" alt="2" border="0"></a>
 
 USBNinja Professional Cables (Lightning, Micro, Type-C) - Black / White
 
