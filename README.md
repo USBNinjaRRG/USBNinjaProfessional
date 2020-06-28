@@ -179,7 +179,7 @@ New Commands Added
 |MSCFORM|-|
 |MSCONOFF|0-1|
 
-*[How to install the USBNinja Professional Module](https://github.com/USBNinjaRRG/USBNinjaProfessional/blob/master/Module.md)
+# [How to install the USBNinja Professional Module](https://github.com/USBNinjaRRG/USBNinjaProfessional/blob/master/Module.md)
 
 
 
