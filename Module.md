@@ -23,11 +23,12 @@ Use FPC cable to connect core module and adapter
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/0ttDXwV/Module-Part-1.png" alt="Module-Part-1" border="0"></a>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/Vxvzs9N/Module-Part-2.png" alt="Module-Part-2" border="0"></a>
 
-Cut off the USB data cable in the target device, and solder the computer cable to the four pads on the HOST terminal: (USB-Cable to Adaptor)
+Cut off the USB data cable in the target device, and solder the computer cable to the four pads on the HOST (USB-Cable to Adapter) terminal: 
 
 5VBUS, D+, D-, GND
 
-The data line on the device side is connected to the four pads on the DEV (Adaptor to DEVICE) side:
+The data line on the device side is connected to the four pads on the DEV (Adapter to DEVICE) side:
+
 5VBUS, D+, D-, GND
 
 <a href="https://ibb.co/xqds1nF"><img src="https://i.ibb.co/60LZHKX/module.png" alt="module" border="0"></a>
