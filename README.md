@@ -33,6 +33,32 @@ Both google play store and apple store have been put on the shelves and are avai
 
 12. Operating current of USBNinja Professional is only 0.4mA. Detection of USBNinja Professional is not that obvious.
 
+# Comparsion Chart
+-----------------
+
+| |Rubber Ducky|USBNinja|O.MG Cable|USBNinja Professional|
+|-|-|-|-|-|
+|Platform|TXT file|	Arduino IDE	|WEB Server	|APP on IOS&Android|
+|Language|Ducky Script|Arduino C|Ducky Script|Ducky Script|
+|Payload size|TF card|5Kb|50K|20Kb*8Slot|
+|Standby current|30mA|10mA|65mA|0.3mA|
+|Wireless distance|×|50m(BLE4.0)|50m(Wifi)|100M(BLE5.0)|
+|Hidden in cable|×|√|√|√|
+|Payload on the air|×|×|√|√|
+|Real-time keyboard|×|×|√|√|
+|Self destruction|×|×|√|√|
+|USB cable data transfer|×|√|×|√|
+|QC3.0 20V Compatible|×|√|×|√|
+|VIDPID quick change|×|×|×|√|
+|USB 2.0 Full-speed|×|×|×|√|
+|Super fast input text|×|×|×|√|
+|Virtual U disk mount|×|×|×|√|
+|Caps lock auto detect|×|×|×|√|
+|One time auto run|×|×|×|√|
+|OTA firmware upgrade|×|×|×|√|
+|DIY module|×|×|×|	√|
+|Long distance remote|×|√|×|√|
+
 # Form Factors Increase:
 ----------------------
 
