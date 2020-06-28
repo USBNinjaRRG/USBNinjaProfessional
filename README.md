@@ -94,15 +94,7 @@ USBNinja Remote Antennas
 
 IOS App (App Store)
 
-<a href="https://ibb.co/6t0C3MP"><img src="https://i.ibb.co/6t0C3MP/We-Chat-Image-20200628185742.png" alt="We-Chat-Image-20200628185742" border="0"></a>
-<a href="https://ibb.co/MSswVYp"><img src="https://i.ibb.co/Gp0Y2Kk/Iphone-Screenshot-5.png" alt="Iphone-Screenshot-5" border="0"></a>
-<a href="https://ibb.co/KNZFXgB"><img src="https://i.ibb.co/5YDB63C/Iphone-Screenshot-6.png" alt="Iphone-Screenshot-6" border="0"></a>
-<a href="https://ibb.co/j3dQzyq"><img src="https://i.ibb.co/6D2T8HG/Iphone-Screenshot-7.png" alt="Iphone-Screenshot-7" border="0"></a>
-<a href="https://ibb.co/Sw2wXn4"><img src="https://i.ibb.co/chPhcFS/Iphone-Screenshot-8.png" alt="Iphone-Screenshot-8" border="0"></a>
-<a href="https://ibb.co/4TW7N19"><img src="https://i.ibb.co/swj23Wk/Iphone-Screenshot-1.png" alt="Iphone-Screenshot-1" border="0"></a>
-<a href="https://ibb.co/sJTcYvn"><img src="https://i.ibb.co/0V01bjT/Iphone-Screenshot-2.png" alt="Iphone-Screenshot-2" border="0"></a>
-<a href="https://ibb.co/2FvVdYB"><img src="https://i.ibb.co/9pbKW3j/Iphone-Screenshot-3.png" alt="Iphone-Screenshot-3" border="0"></a>
-<a href="https://ibb.co/ZfZSRwJ"><img src="https://i.ibb.co/cymwKpv/Iphone-Screenshot-4.png" alt="Iphone-Screenshot-4" border="0"></a>
+<a href="https://ibb.co/6t0C3MP"><img src="https://i.ibb.co/6t0C3MP/We-Chat-Image-20200628185742.png" alt="We-Chat-Image-20200628185742" border="0"></a> <a href="https://ibb.co/4TW7N19"><img src="https://i.ibb.co/4TW7N19/Iphone-Screenshot-1.png" alt="Iphone-Screenshot-1" border="0"></a> <a href="https://ibb.co/sJTcYvn"><img src="https://i.ibb.co/sJTcYvn/Iphone-Screenshot-2.png" alt="Iphone-Screenshot-2" border="0"></a> <a href="https://ibb.co/2FvVdYB"><img src="https://i.ibb.co/2FvVdYB/Iphone-Screenshot-3.png" alt="Iphone-Screenshot-3" border="0"></a> <a href="https://ibb.co/ZfZSRwJ"><img src="https://i.ibb.co/ZfZSRwJ/Iphone-Screenshot-4.png" alt="Iphone-Screenshot-4" border="0"></a> <a href="https://ibb.co/MSswVYp"><img src="https://i.ibb.co/MSswVYp/Iphone-Screenshot-5.png" alt="Iphone-Screenshot-5" border="0"></a> <a href="https://ibb.co/KNZFXgB"><img src="https://i.ibb.co/KNZFXgB/Iphone-Screenshot-6.png" alt="Iphone-Screenshot-6" border="0"></a> <a href="https://ibb.co/j3dQzyq"><img src="https://i.ibb.co/j3dQzyq/Iphone-Screenshot-7.png" alt="Iphone-Screenshot-7" border="0"></a> <a href="https://ibb.co/Sw2wXn4"><img src="https://i.ibb.co/Sw2wXn4/Iphone-Screenshot-8.png" alt="Iphone-Screenshot-8" border="0"></a>
 
 
 Android (Google Playstore)
