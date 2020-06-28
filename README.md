@@ -141,12 +141,12 @@ New Commands Added
 
 # How to install the USBNinja Professional Module
 
-One. Working parameter
+a. Working parameter
 1. Voltage: 4.7-5.5V
 2. Current: 0.4mA
 3. Operating temperature range: -40℃~80℃
 
-Size
+b. Size
 
 Core module:
 14.4mm*8.38mm*3mm
@@ -158,7 +158,7 @@ Adapter:
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/7Q6QgRM/Adapter-Photo.png" alt="Adapter-Photo" border="0"></a>
 
-Connection method
+c. Connection method
 Use FPC cable to connect core module and adapter
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/0ttDXwV/Module-Part-1.png" alt="Module-Part-1" border="0"></a>
