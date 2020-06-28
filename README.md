@@ -139,7 +139,7 @@ New Commands Added
 |MSCFORM|-|
 |MSCONOFF|0-1|
 
-# How to use the USBNinja Professional Module
+# How to install the USBNinja Professional Module
 
 One. Working parameter
 1. Voltage: 4.7-5.5V
@@ -153,13 +153,10 @@ Core module:
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/8KZJCr9/PCBA-Photo.png" alt="PCBA-Photo" border="0"></a>
 
-
-
 Adapter:
 18.8mm*10mm*3mm
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/7Q6QgRM/Adapter-Photo.png" alt="Adapter-Photo" border="0"></a>
-
 
 Connection method
 Use FPC cable to connect core module and adapter
@@ -173,6 +170,8 @@ Cut off the USB data cable in the target device, and solder the computer cable t
 
 The data line on the device side is connected to the four pads on the DEV (Adaptor to DEVICE) side:
 5VBUS, D+, D-, GND
+
+<a href="https://ibb.co/WksVJnT"><img src="https://i.ibb.co/5r2KHT7/module.png" alt="module" border="0"></a>
 
 
 
