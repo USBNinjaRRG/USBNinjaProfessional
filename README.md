@@ -105,7 +105,7 @@ Android (Google Playstore) [Here](https://play.google.com/store/apps/details?id=
 <a href="https://ibb.co/XsHY3gJ"><img src="https://i.ibb.co/XsHY3gJ/Android-Screen-Shot-1.jpg" alt="Android-Screen-Shot-1" border="0"></a> <a href="https://ibb.co/zWcwnmV"><img src="https://i.ibb.co/zWcwnmV/Android-Screenshot-12.jpg" alt="Android-Screenshot-12" border="0"></a> <a href="https://ibb.co/dJTsmk1"><img src="https://i.ibb.co/dJTsmk1/Android-Screenshot-15.jpg" alt="Android-Screenshot-15" border="0"></a> <a href="https://ibb.co/Dkrxysb"><img src="https://i.ibb.co/Dkrxysb/Android-Screenshot-14.jpg" alt="Android-Screenshot-14" border="0"></a> <a href="https://ibb.co/3dS5DB7"><img src="https://i.ibb.co/3dS5DB7/Android-Screenshot-13.jpg" alt="Android-Screenshot-13" border="0"></a> <a href="https://ibb.co/PMhh732"><img src="https://i.ibb.co/PMhh732/Android-Screenshot-10.jpg" alt="Android-Screenshot-10" border="0"></a>
 
 
-GUI on windows (Via Remote)
+GUI on windows (Via Remote) [Here](https://github.com/USBNinjaRRG/USBNinjaProfessional/blob/master/USBNinja%20PRO.exe)
 ---------------------------
 
 <a href="https://ibb.co/Jc5cGWS"><img src="https://i.ibb.co/MgMgtyJ/GUI-interface.png" alt="GUI-interface" border="0"></a>
@@ -179,39 +179,9 @@ New Commands Added
 |MSCFORM|-|
 |MSCONOFF|0-1|
 
-# How to install the USBNinja Professional Module
+*[How to install the USBNinja Professional Module](https://github.com/USBNinjaRRG/USBNinjaProfessional/blob/master/Module.md)
 
-a. Working parameter
-1. Voltage: 4.7-5.5V
-2. Current: 0.4mA
-3. Operating temperature range: -40℃~80℃
 
-b. Size
-
-Core module:
-14.4mm*8.38mm*3mm
-
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/8KZJCr9/PCBA-Photo.png" alt="PCBA-Photo" border="0"></a>
-
-Adapter:
-18.8mm*10mm*3mm
-
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/7Q6QgRM/Adapter-Photo.png" alt="Adapter-Photo" border="0"></a>
-
-c. Connection method
-Use FPC cable to connect core module and adapter
-
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/0ttDXwV/Module-Part-1.png" alt="Module-Part-1" border="0"></a>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/Vxvzs9N/Module-Part-2.png" alt="Module-Part-2" border="0"></a>
-
-Cut off the USB data cable in the target device, and solder the computer cable to the four pads on the HOST terminal: (USB-Cable to Adaptor)
-
-5VBUS, D+, D-, GND
-
-The data line on the device side is connected to the four pads on the DEV (Adaptor to DEVICE) side:
-5VBUS, D+, D-, GND
-
-<a href="https://ibb.co/xqds1nF"><img src="https://i.ibb.co/60LZHKX/module.png" alt="module" border="0"></a>
 
 
 
