@@ -171,8 +171,7 @@ Cut off the USB data cable in the target device, and solder the computer cable t
 The data line on the device side is connected to the four pads on the DEV (Adaptor to DEVICE) side:
 5VBUS, D+, D-, GND
 
-<a href="https://ibb.co/WksVJnT"><img src="https://i.ibb.co/5r2KHT7/module.png" alt="module" border="0"></a>
-
+<a href="https://ibb.co/xqds1nF"><img src="https://i.ibb.co/60LZHKX/module.png" alt="module" border="0"></a>
 
 
 
