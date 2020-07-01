@@ -89,8 +89,7 @@ USBNinja Professional Remote
 
 USBNinja Remote Antennas
 
-<a href="https://ibb.co/HBC9JCX"><img src="https://i.ibb.co/HBC9JCX/Exrteme.png" alt="Exrteme" border="0"></a>
-
+<a href="https://ibb.co/5GNsmFV"><img src="https://i.ibb.co/5GNsmFV/O1-CN01afc-Vwr1jd-Z0-O8-Nfx-R-1063274571-copy.png" alt="O1-CN01afc-Vwr1jd-Z0-O8-Nfx-R-1063274571-copy" border="0"></a>
 
 # 3 Forms of Execution
 ------------------------
