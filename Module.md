@@ -31,8 +31,7 @@ The data line on the device side is connected to the four pads on the DEV (Adapt
 
 5VBUS, D+, D-, GND
 
-<a href="https://ibb.co/xqds1nF"><img src="https://i.ibb.co/60LZHKX/module.png" alt="module" border="0"></a>
-
+<a href="https://ibb.co/5kbhwJg"><img src="https://i.ibb.co/RNRTdJk/module.png" alt="module" border="0"></a>
 
 
 
