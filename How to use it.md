@@ -1,6 +1,6 @@
 # Installing the driver for your remote
 
-Download drivers from our Github:  [Here]
+Download drivers from our Github:  [Here](https://github.com/USBNinjaRRG/USBNinjaProfessional/blob/master/USBninja_Transmiter_driver.rar)
 -------------------------
 
 <a href="https://ibb.co/7JyjfMm"><img src="https://i.ibb.co/QFmpgSw/How-to-1.png" alt="How-to-1" border="0"></a>
@@ -10,7 +10,7 @@ Install the drivers according to your computer
 
 <a href="https://ibb.co/jGdN6B6"><img src="https://i.ibb.co/Bjmpzdz/How-to-2.png" alt="How-to-2" border="0"></a>
 
-Download GUI from our Github [Here]
+Download GUI from our Github [Here](https://github.com/USBNinjaRRG/USBNinjaProfessional/blob/master/USBNinja%20PRO.exe)
 -------------------------
 
 <a href="https://ibb.co/HhVPPp8"><img src="https://i.ibb.co/1zLXXJW/How-to-3.png" alt="How-to-3" border="0"></a>
