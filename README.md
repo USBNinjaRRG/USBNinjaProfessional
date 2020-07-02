@@ -8,19 +8,25 @@ USBNinja Professional. Upgraded from USBNinja.
 
 How to use it ?
 
-Downloading the drivers & GUI for windows
+# Downloading the drivers & GUI for windows
 
-Driver 
+Driver
+----------------
 [Here](https://github.com/USBNinjaRRG/USBNinjaProfessional/blob/master/USBninja_Transmiter_driver.rar)
 
 GUI
+----------------
 [Here](https://github.com/USBNinjaRRG/USBNinjaProfessional/blob/master/USBNinja%20PRO.exe)
 
-IOS App (App Store) 
-[Here](https://apps.apple.com/us/app/usbninja-professional/id1513603047)
+IOS App (App Store)
+----------------
+[Here](https://apps--.apple.com/us/app/usbninja-professional/id1513603047)
 
 Android (Google Playstore) 
+---------------------
 [Here](https://play.google.com/store/apps/details?id=com.rrg.usbninja)
+
+----------------------------------------------------
 
 What's new on USBNinja Professional ?
 
