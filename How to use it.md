@@ -37,9 +37,53 @@ Real time Control Interface
 
 <a href="https://ibb.co/wcgHB7Y"><img src="https://i.ibb.co/Y0Q9PXb/How-to-5.jpg" alt="How-to-5" border="0"></a>
 
-| |
-|-|
-|String "keyword"|
-|Gui R|
-|Enter|
+|Command|Parameter|
+|---|---|
+|REM|   |  
+|DEFAULT_DELAY |0-xxx| 
+|DEFAULTDELAY|0-xxx|
+|DELAY|0-xxx| 
+|STRING|A-Z, 0-9|
+|GUI||
+|GUI|SPACE|
+|GUI|TAB|
+|APP MENU||
+|SHIFT|DELETE|
+|SHIFT|HOME|
+|SHIFT|PAGEUP|
+|SHIFT|PAGEDOWN|
+|SHIFT|WINDOWS|
+|SHIFT|GUI|
+|SHIFT|UPARROW|
+|SHIFT|DOWNARROW|
+|SHIFT|LEFTARROW|
+|SHIFT|RIGHTARROW|
+|SHIFT|TAB|
+|ALT|END|
+|ALT|ESC|
+|ALT|F1-F12|
+|ALT|A-Z|
+|ALT|SPACE|
+|ALT|TAB|
+|UPARROW| UP|
+|DOWNARROW|DOWN|
+|LEFTARROW|LEFT|
+|RIGHTARROW|RIGHT|
+|BREAK|-|
+|PAUSE|-|
+|CAPSLOCK|-|
+|DELETE|-|
+|END|-|
+|ESC|-|
+|ESCAPE|-|
+|HOME|-|
+|INSERT|-|
+|NUMLOCK|-|
+|PAGEUP|-|
+|PAGEDOWN|-|
+|PRINTSCREEN|-|
+|SCROLLLOCK|-|
+|SPACE|-|
+|TAB|-|
+|REPEAT|0-XXX|
 
