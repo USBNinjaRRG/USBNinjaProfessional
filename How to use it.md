@@ -29,7 +29,7 @@ GUI Interface
 |EnterDFU|Entering of DFU Mode|
 |Enter Real time Control|Real Time Control Mode|
 |Open|Open Payload|
-|Save|Save Payload|
+|Save|Save Payload| 
 
 
 Real time Control Interface
