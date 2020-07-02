@@ -55,7 +55,7 @@ Both google play store and apple store have been put on the shelves and are avai
 
 12. Operating current of USBNinja Professional is only 0.4mA. Detection of USBNinja Professional is not that obvious.
 
-# Comparsion Chart
+# Comparison Chart
 -----------------
 
 | |Rubber Ducky|USBNinja|O.MG Cable|USBNinja Professional|
