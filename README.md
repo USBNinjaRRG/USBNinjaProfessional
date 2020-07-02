@@ -47,7 +47,7 @@ Both google play store and apple store have been put on the shelves and are avai
 
 8. Automatically detect caps lock and accurately enter all upper and lower case characters.
 
-9. The new remote control can choose 8 SLOT and 8 PAYLOAD remote control trigger, 20kb for each payload.
+9. The new remote control can choose between 8 slots with 8 different PAYLOAD and acts like remote control trigger, 20kb for each payload.
 
 10. The new remote control supports Bluetooth 5.0 mode, and the empty card distance is increased by 30%.
 
