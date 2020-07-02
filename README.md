@@ -97,7 +97,7 @@ USBNinja Module
 
 <a href="https://ibb.co/RyH1NxZ"><img src="https://i.ibb.co/RyH1NxZ/canva1.png" alt="canva1" border="0"></a> <a href="https://ibb.co/47PHy74"><img src="https://i.ibb.co/47PHy74/canva2.png" alt="canva2" border="0"></a> <a href="https://ibb.co/xhkK7VJ"><img src="https://i.ibb.co/xhkK7VJ/canva3.png" alt="canva3" border="0"></a> <a href="https://ibb.co/RgKNF2m"><img src="https://i.ibb.co/RgKNF2m/canva4.png" alt="canva4" border="0"></a> <a href="https://ibb.co/MRMX1Hr"><img src="https://i.ibb.co/MRMX1Hr/canva5.png" alt="canva5" border="0"></a> <a href="https://ibb.co/wwsxbh7"><img src="https://i.ibb.co/wwsxbh7/canva6.png" alt="canva6" border="0"></a>
 
-[How to install the USBNinja Professional Module](https://github.com/USBNinjaRRG/USBNinjaProfessional/blob/master/Module.md)
+[How to install the USBNinja Professional Module](https://github.com/USBNinjaRRG/USBNinjaProfessional/blob/master/How%20to%20install%20your%20custom%20USBNinja%20Professional%20using%20the%20module.md)
 -------------------
 
 # Accessories
