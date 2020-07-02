@@ -1,6 +1,6 @@
 # USBNinja Professional
 
-Our Asia & Oceania Reseller: *[Here](https://sneaktechnology.com/)*
+Our Asia & Oceania Reseller: *[Here](https://sneaktechnology.com/pentest-engagement-scenario/badusb/)*
 
 USBNinja Professional. Upgraded from USBNinja.
 
