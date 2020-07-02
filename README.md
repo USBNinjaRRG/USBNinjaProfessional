@@ -6,6 +6,22 @@ USBNinja Professional. Upgraded from USBNinja.
 
 <a href="https://ibb.co/Pg0f2cK"><img src="https://i.ibb.co/Pg0f2cK/1.png" alt="1" border="0"></a>
 
+How to use it ?
+
+Downloading the drivers & GUI for windows
+
+Driver 
+[Here](https://github.com/USBNinjaRRG/USBNinjaProfessional/blob/master/USBninja_Transmiter_driver.rar)
+
+GUI
+[Here](https://github.com/USBNinjaRRG/USBNinjaProfessional/blob/master/USBNinja%20PRO.exe)
+
+IOS App (App Store) 
+[Here](https://apps.apple.com/us/app/usbninja-professional/id1513603047)
+
+Android (Google Playstore) 
+[Here](https://play.google.com/store/apps/details?id=com.rrg.usbninja)
+
 What's new on USBNinja Professional ?
 
 1. Easy to use, no need for complicated ARDUINO configuration and download process, no longer need a magnet to enter DFU mode, all configurations only need one mobile phone.
