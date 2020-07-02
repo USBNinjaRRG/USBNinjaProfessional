@@ -22,7 +22,7 @@ GUI Interface
 
 |Button| |
 |-|-|
-|Readback|- Reading payload from USBNinja |
+|Readback|Reading payload from USBNinja |
 |Execute|Execution of payload|
 |Upload|Uploading of payload|
 |Delete|Deleting of payload||
