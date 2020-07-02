@@ -20,7 +20,7 @@ GUI Interface
 
 <a href="https://ibb.co/5FFj1kz"><img src="https://i.ibb.co/M661gfj/How-to-4.png" alt="How-to-4" border="0"></a>
 
-|Button|-|
+|Button| |
 |-|-|
 |Readback|- Reading payload from USBNinja |
 |Execute|Execution of payload|
@@ -37,7 +37,7 @@ Real time Control Interface
 
 <a href="https://ibb.co/wcgHB7Y"><img src="https://i.ibb.co/Y0Q9PXb/How-to-5.jpg" alt="How-to-5" border="0"></a>
 
-|-|
+| |
 |-|
 |String "keyword"|
 |Gui R|
