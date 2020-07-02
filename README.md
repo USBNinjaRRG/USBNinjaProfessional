@@ -4,7 +4,7 @@ Our Asia & Oceania Reseller: *[Here](https://sneaktechnology.com/pentest-engagem
 
 USBNinja Professional. Upgraded from USBNinja.
 
-[Product Introduction Video](https://vimeo.com/user118817477/review/434782242/b01e0bd91c)
+# [Product Introduction Video](https://www.youtube.com/watch?v=KGmf_2nZ5D0)
 
 <a href="https://ibb.co/Pg0f2cK"><img src="https://i.ibb.co/Pg0f2cK/1.png" alt="1" border="0"></a>
 
