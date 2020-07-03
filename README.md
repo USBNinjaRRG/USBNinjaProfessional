@@ -115,6 +115,16 @@ USBNinja Remote Antennas
 
 <a href="https://ibb.co/5GNsmFV"><img src="https://i.ibb.co/5GNsmFV/O1-CN01afc-Vwr1jd-Z0-O8-Nfx-R-1063274571-copy.png" alt="O1-CN01afc-Vwr1jd-Z0-O8-Nfx-R-1063274571-copy" border="0"></a>
 
+Remote Trigger Changelog
+------------------------
+
+1. Configuration Settings Mode: Hold SELECT to boot and enter the configuration mode. When you connect to the computer, you can configure the default connection password and scan name with the PC.
+
+2. Bluetooth 5.0 remote mode: Connect to the data cable, press and hold the two buttons for 5 seconds, the data cable will be set to 5.0 remote mode.
+Repeat the above operation, the data line back to the default mode of Bluetooth 4.0. Press A and press B to see if the current Bluetooth 4 or Bluetooth 5 mode.
+
+3. Force to stop PAYLOAD: Hold A and hold B after executing PAYLOAD. This will force PAYLOAD to stop
+
 # 3 Forms of Execution
 ------------------------
 
