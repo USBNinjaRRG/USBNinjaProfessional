@@ -149,68 +149,68 @@ GUI on windows (Via Remote) [Here](https://github.com/USBNinjaRRG/USBNinjaProfes
 
 # Command existing and Command added for USBNinja Professional
 ------------------------------------------------------------
-|Command|Parameter|
-|---|---|
-|REM|   |  
-|DEFAULT_DELAY |0-xxx| 
-|DEFAULTDELAY|0-xxx|
-|DELAY|0-xxx| 
-|STRING|A-Z, 0-9|
-|GUI||
-|GUI|SPACE|
-|GUI|TAB|
-|APP MENU||
-|SHIFT|DELETE|
-|SHIFT|HOME|
-|SHIFT|PAGEUP|
-|SHIFT|PAGEDOWN|
-|SHIFT|WINDOWS|
-|SHIFT|GUI|
-|SHIFT|UPARROW|
-|SHIFT|DOWNARROW|
-|SHIFT|LEFTARROW|
-|SHIFT|RIGHTARROW|
-|SHIFT|TAB|
-|ALT|END|
-|ALT|ESC|
-|ALT|F1-F12|
-|ALT|A-Z|
-|ALT|SPACE|
-|ALT|TAB|
-|UPARROW| UP|
-|DOWNARROW|DOWN|
-|LEFTARROW|LEFT|
-|RIGHTARROW|RIGHT|
-|BREAK|-|
-|PAUSE|-|
-|CAPSLOCK|-|
-|DELETE|-|
-|END|-|
-|ESC|-|
-|ESCAPE|-|
-|HOME|-|
-|INSERT|-|
-|NUMLOCK|-|
-|PAGEUP|-|
-|PAGEDOWN|-|
-|PRINTSCREEN|-|
-|SCROLLLOCK|-|
-|SPACE|-|
-|TAB|-|
-|REPEAT|0-XXX|
+|Command|Parameter|Details|
+|---|---|---|
+|REM|   |Comment|
+|DEFAULT_DELAY |0-xxx|Each script execution interval time, unit mS|
+|DEFAULTDELAY|0-xxx|Each script execution interval time, unit mS|
+|DELAY|0-xxx|Waiting delay, unit mS|
+|STRING|A-Z, 0-9|Text Input|
+|GUI||Some commonly used shortcuts|
+|GUI|SPACE|MAC computer used to bring up the command line|
+|GUI|TAB|WINDOWS brings up a small window arrangement|
+|APP MENU||Equivalent to SHIFT and F10 press and release at the same time|
+|SHIFT|DELETE||
+|SHIFT|HOME||
+|SHIFT|PAGEUP||
+|SHIFT|PAGEDOWN||
+|SHIFT|WINDOWS||
+|SHIFT|GUI||
+|SHIFT|UPARROW||
+|SHIFT|DOWNARROW||
+|SHIFT|LEFTARROW||
+|SHIFT|RIGHTARROW||
+|SHIFT|TAB||
+|ALT|END||
+|ALT|ESC|ESC and ESCAPE have the same meaning and can be recognized in the script|
+|ALT|F1-F12|F1-F12 keys|
+|ALT|A-Z|Different function|
+|ALT|SPACE||
+|ALT|TAB||
+|UPARROW| UP||
+|DOWNARROW|DOWN||
+|LEFTARROW|LEFT||
+|RIGHTARROW|RIGHT||
+|BREAK|-||
+|PAUSE|-||
+|CAPSLOCK|-||
+|DELETE|-||
+|END|-||
+|ESC|-||
+|ESCAPE|-||
+|HOME|-||
+|INSERT|-||
+|NUMLOCK|-||
+|PAGEUP|-||
+|PAGEDOWN|-||
+|PRINTSCREEN|-||
+|SCROLLLOCK|-||
+|SPACE|-||
+|TAB|-||
+|REPEAT|0-XXX|Repeat the previous instruction, execute as many times as you want|
 
 New Commands Added
 -----------------
 
-|Command| Parameter|
-|---|---|
-|USBON|-|
-|USBOFF|-|
-|CAPSLOCK ON|-|	
-|CAPSLOCK OFF|-|	
-|PLUGAUTORUN|0-10|
-|MSCREAD|-|	
-|MSCSAVE|-|
-|MSCWIPE|-|
-|MSCFORM|-|
-|MSCONOFF|0-1|
+|Command| Parameter|Details|
+|---|---|---|
+|USBON|-|Switch to the USB port of NINJA to connect it to the computer. By default, there is no need to write this instruction. The device will add this command at the front of the normal script.|
+|USBOFF|-|NINJA switches to the original USB channel, and NINJA disconnects from the computer. By default, there is no need to write this instruction. The device will add this command at the end of the normal script.|
+|CAPSLOCK ON|-|Capitalized. After capitalization is turned on, you can effectively mask input errors caused by the Chinese input method or other multilingual input methods.	|
+|CAPSLOCK OFF|-|Capitalization. Turn off input method shielding.|	
+|PLUGAUTORUN|0-10|The next time the power is turned on, it automatically runs the designated slot number 1-10. Parameter 0 means off. Can be used to jump to other slots when PAYLOAD space is not enough. Or automatically run on power-up|
+|MSCREAD|-|U disk related instructions, after execution, transfer the U disk data from FLASH to RAM, ready to start simulation|
+|MSCSAVE|-|U disk related instructions, after execution, transfer the U disk data from RAM to FLASH, even if the power is turned off, the data will not be lost.|
+|MSCWIPE|-|U disk related instructions, after execution, erase the U disk data from RAM.|
+|MSCFORM|-|U disk related instructions, after execution, erase the U disk data from ROM|
+|MSCONOFF|0-1|U disk related commands, parameter 0 means turn off the U disk function, parameter 1 means turn on the U disk function|
