@@ -4,4 +4,19 @@ FAQ
 
 Range. Apps via phone trigger only to a range of 7m whereas remote trigger will go up to 30-50m in range. With the bi-directional antenna, it can go up to 80m in range.
 
-2. 
+2. What is the default value of the BLE password?
+
+8888
+
+3.How can I change the BLE password of my cable?
+
+Connect to your cable by Apps using your default password, in "optinons" you can change BLE name and BLE password of the cable.
+After you change the default BLE password, you shoud change the password in "Connect settings" so that you can connect again.
+
+4.How can I change the BLE password of my Apps?
+
+If you changed your BLE password of your cable, you shoud change the password in "Connect settings" so that you can connect by your phone again.
+
+5.How can I change the BLE password of my remote?
+
+If you changed your BLE password of your cable, you should change the BLE password of your remote.
